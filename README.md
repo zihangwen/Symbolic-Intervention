@@ -1,2 +1,2 @@
-## Probing the Faithfulness of Chain-of-Thought Reasoning Through Symbolic Intervention
-This is the Github repo for the AISES project https://docs.google.com/document/d/1i4OdjM4XKFO7MgFr93wNFwnGS_3zlbEeYXElP58CYZc/edit?tab=t.dzcipjr8xvax#heading=h.5nfb1efv0rn6
+# Probing the Faithfulness of Chain-of-Thought Reasoning Through Symbolic Intervention
+This is the Github repo for the AISES project: https://docs.google.com/document/d/1i4OdjM4XKFO7MgFr93wNFwnGS_3zlbEeYXElP58CYZc/edit?tab=t.dzcipjr8xvax#heading=h.5nfb1efv0rn6
