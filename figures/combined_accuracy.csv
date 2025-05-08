@@ -1,0 +1,9 @@
+subject,mean,source,std
+college_chemistry,0.7258064516129032,original,0.0
+college_computer_science,0.9285714285714286,original,0.0
+college_mathematics,0.8620689655172413,original,0.0
+college_physics,0.9295774647887324,original,0.0
+college_biology,0.9504132231404959,original,0.0
+college_medicine,0.8059701492537313,original,0.0
+college_chemistry,0.5956989247311828,modified,0.03526675652441603
+college_mathematics,0.3793103448275862,modified,0.08546478607338656
